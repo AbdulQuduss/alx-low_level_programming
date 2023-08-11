@@ -1,7 +1,7 @@
 #include <stdio.h>
-/** 
-*main - description: This program uses the printf function 
-*return - description: 0(success)
+/**
+*main - description: This program uses the printf function
+*Return - description: 0(success)
 */
 int main(void)
 {

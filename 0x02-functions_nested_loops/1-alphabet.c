@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "msin.h"
+#include "main.h"
 /**
  * print_alphabet - This function prints lowercase
  */

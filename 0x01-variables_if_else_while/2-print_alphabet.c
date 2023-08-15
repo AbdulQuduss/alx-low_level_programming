@@ -4,7 +4,8 @@
  */
 int main(void) {
 	char lowercase = 'a';
-	for (int i = 0; i < 26; i++)
+	int i;
+	for (i = 0; i < 26; i++)
 	{
 		putchar(lowercase + i);
 	}

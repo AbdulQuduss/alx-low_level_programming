@@ -2,7 +2,7 @@
 
 /**
  * _abs - This function computes the absolute value of a character
- * @int: data type of input
+ * @num: data type of input
  * Return: the absolute value of num
  */
 int _abs(int num)

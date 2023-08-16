@@ -5,7 +5,7 @@
  * @int: data type of input
  * Return: the absolute value of num
  */
-int _abs(int)
+int _abs(int num)
 {
 	int num;
 

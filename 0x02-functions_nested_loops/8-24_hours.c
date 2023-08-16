@@ -8,7 +8,7 @@ void print_jack_bauer_minutes(void)
 	{
 	int minute;
 	
-	for (int minute = 0; minute < 60; minute++) 
+	for (minute = 0; minute < 60; minute++) 
 	{
 	_putchar('0' + hour / 10);
 	_putchar('0' + hour % 10);

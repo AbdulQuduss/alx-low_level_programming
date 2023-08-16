@@ -1,6 +1,8 @@
+#include <stdio.h>
+
 int _putchar(char c)
 {
-	return (&c);
+	return (c);
 }
 
 void print_alphabet(void)

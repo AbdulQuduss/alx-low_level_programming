@@ -1,8 +1,7 @@
-#include <stdio.h>
 
 int _putchar(char c)
 {
-	return (c);
+	return (write(1, &c, 1);
 }
 
 void print_alphabet(void)
@@ -12,8 +11,8 @@ void print_alphabet(void)
 
 	for (i = 0; i < 26; i++)
 	{
-	putchar(lowercase);
+	_putchar(lowercase);
 	lowercase++;
 	}
-	putchar('\n');
+	_putchar('\n');
 }

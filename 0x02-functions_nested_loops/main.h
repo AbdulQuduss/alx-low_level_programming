@@ -18,17 +18,6 @@ int _putchar(char c)
  * print_alphabet - This function displays alphabets
  * Return: void
  */
-void print_alphabet(void)
-{
-	char lowercase = 'a';
-	int i;
-
-	for (i = 0; i < 26; i++)
-	{
-	_putchar(lowercase);
-	lowercase++;
-	}
-	_putchar('\n');
-}
+void print_alphabet(void);
 
 #endif

@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "main.h"
-void print_jack_bauer_minutes(void) 
+/**
+ * jack_bauer - This function prints all minutes
+ * Return: void
+ */
+void jack_bauer(void) 
 {
 	int hour;
 

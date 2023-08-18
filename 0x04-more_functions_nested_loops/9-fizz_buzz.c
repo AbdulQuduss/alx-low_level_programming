@@ -26,5 +26,5 @@ int main(void)
 		printf("%d ", i);
 		}
 	}
-	Return(0);
+	return(0);
 }

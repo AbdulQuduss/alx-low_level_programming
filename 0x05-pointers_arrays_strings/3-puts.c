@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _puts - This function prints a string on the screen
  * @str: input string
@@ -7,8 +8,7 @@ void _puts(char *str)
 {
 	while (*str != '\0')
 	{
-	putchar(*str);
-	*str++;
+	_putchar(*str++);
 	}
-	putchar('\n');
+	_putchar('\n');
 }

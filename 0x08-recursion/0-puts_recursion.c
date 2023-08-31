@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * _puts_recursion - This function recursively prints a string
  * @s: The string to be printed

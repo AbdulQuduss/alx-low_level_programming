@@ -2,12 +2,12 @@
 #include <stdlib.h>
 
 /**
- *main- multiplies two numbers
+ * main- multiplies two numbers
  * @argc: argument count
  * @argv: arguments array
  * Return: Always 0
  */
-int main(int argc, *char argv[])
+int main(int argc, char *argv[])
 {
 int x, y;
 
